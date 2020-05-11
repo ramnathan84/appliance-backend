@@ -1,0 +1,8 @@
+---
+applications:
+  - name: appmgmt
+    buildpacks: 
+      - java_buildpack
+    path: target/appmgmt-0.0.1-SNAPSHOT.jar
+    services:
+      - mysqldb

@@ -1,0 +1,9 @@
+com\demo\appmgmt\repository\ApplianceRepository.class
+com\demo\appmgmt\AppmgmtApplication.class
+com\demo\appmgmt\payload\ApiResponse.class
+com\demo\appmgmt\controller\ApplianceController.class
+com\demo\appmgmt\payload\ApplianceRequest.class
+com\demo\appmgmt\model\Appliance.class
+com\demo\appmgmt\service\ApplianceService.class
+com\demo\appmgmt\exception\ResourceNotFoundException.class
+com\demo\appmgmt\model\ApplianceIdentity.class

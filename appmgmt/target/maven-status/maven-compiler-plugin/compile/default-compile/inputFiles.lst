@@ -1,0 +1,9 @@
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\controller\ApplianceController.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\exception\ResourceNotFoundException.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\payload\ApiResponse.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\payload\ApplianceRequest.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\repository\ApplianceRepository.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\model\ApplianceIdentity.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\model\Appliance.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\service\ApplianceService.java
+D:\capge\appmgmt\src\main\java\com\demo\appmgmt\AppmgmtApplication.java
