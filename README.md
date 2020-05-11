@@ -1,10 +1,15 @@
 # appliance-backend
 Appliance Management Backend
 
-#Database
-Create DB Schema in MySQL - app_system
+Technology 
+----------
+1. Spring Boot
+2. MySQL Database
 
-#Run
-Install Maven CLI
-mvn clean install
-mvn spring-boot:run
+Setup
+-----
+1. Clone Repository
+2. Create DB Schema in MySQL - app_system
+3. Install Maven CLI
+4. mvn clean install
+5. mvn spring-boot:run
