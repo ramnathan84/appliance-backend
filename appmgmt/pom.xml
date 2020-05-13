@@ -12,6 +12,7 @@
 	<artifactId>appmgmt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>appmgmt</name>
+	<packaging>jar</packaging>
 	<description>Household Appliances Management System</description>
 
 	<properties>
